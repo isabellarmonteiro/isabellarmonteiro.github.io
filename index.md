@@ -2,7 +2,7 @@
 ## Hi there/ Hejsan/ Ciao/ Salut/ Olá !
 ---
 
-<img src="images/IMG_3422.jpg"/>
+<img src="images/IMG_3422.JPG"/>
 
 ### Writing Sample
 

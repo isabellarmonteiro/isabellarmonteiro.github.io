@@ -16,7 +16,7 @@ labor supply - evidence from Brazil’s Curriculum reform](/pdf/sample_presentat
 
 ---
 
-### Category Name 2
+### Coding Sample
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)

@@ -15,7 +15,7 @@ labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_
 
 ---
 
-### Simple Code Samples
+### Simple Coding Samples
 [Stata - an extract from my first Master's Thesis](http://example.com/)
 <br>
 [R - Spatial Analysis](http://example.com/)

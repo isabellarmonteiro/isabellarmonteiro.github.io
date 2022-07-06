@@ -2,7 +2,7 @@
 ## Hi there/ Hejsan/ Ciao/ Salut/ Olá !
 ---
 
-<img src="images/IMG_3422.JPG" width="300">
+<img src="images/IMG_3422.JPG" width="300"/>
 
 ### Writing Sample
 
@@ -32,7 +32,8 @@ labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_
 ---
 
 ### Art
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/IMG_9563.JPG" width="200"/>
+<img src="images/IMG_9701.JPG" width="100"/>
 ---
 
 ### Animation Projects

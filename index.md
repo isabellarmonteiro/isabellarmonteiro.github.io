@@ -5,12 +5,10 @@
 ### Writing Sample
 
 [The Effects of Fertility on Intrahousehold Resource Allocation and Women's Bargaining Power - Evidence from Nigeria](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [The effect of children’s school starting age on women’s
 labor supply - evidence from Brazil’s Curriculum reform](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)

@@ -1,6 +1,7 @@
 
 ## Hi there/ Hejsan/ Ciao/ Salut/ Olá !
 ---
+24 year old, based in Turin.
 
 <img src="images/IMG_3422.JPG" width="300"/>
 

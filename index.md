@@ -1,7 +1,9 @@
 
 ## Hi there/ Hejsan/ Ciao/ Salut/ Olá !
 ---
-24 year old, based in Turin, Italy. Currently studying Economics (MSc) at Lund University.
+24 year old, based in Turin, Italy.
+<br>
+Currently studying Economics (MSc) at Lund University.
 
 <img src="images/IMG_3422.JPG" width="300"/>
 

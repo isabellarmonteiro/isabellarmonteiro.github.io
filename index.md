@@ -8,11 +8,13 @@
 ### Writing Samples
 
 [The Effects of Fertility on Intrahousehold Resource Allocation and Women's Bargaining Power - Evidence from Nigeria](/pdf/Essay_Isabella_Rego_Monteiro_19971128_T726_NEKN01.pdf)
+<br>
 My first year's Master Thesis.
 
 ---
 [The effect of children’s school starting age on women’s
 labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_Assignment.pdf)
+<br>
 An original empirical paper for the Advanced Labour Economics class in my Master's Degree.
 ---
 

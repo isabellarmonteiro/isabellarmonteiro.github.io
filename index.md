@@ -8,7 +8,7 @@
 
 ---
 [The effect of children’s school starting age on women’s
-labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_Assignment.pdf.pdf)
+labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_Assignment.pdf)
 
 ---
 [An overview of risk and consumption smoothing mechanisms in rural Mozambique](http://example.com/)

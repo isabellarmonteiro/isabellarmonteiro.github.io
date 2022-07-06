@@ -5,7 +5,7 @@
 
 <img src="images/IMG_3422.JPG" width="300"/>
 
-### Writing Sample
+### Writing Samples
 
 [The Effects of Fertility on Intrahousehold Resource Allocation and Women's Bargaining Power - Evidence from Nigeria](/pdf/Essay_Isabella_Rego_Monteiro_19971128_T726_NEKN01.pdf)
 
@@ -15,7 +15,7 @@ labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_
 
 ---
 
-### Coding Sample
+### Simple Code Samples
 [Stata - an extract from my first Master's Thesis](http://example.com/)
 <br>
 [R - Spatial Analysis](http://example.com/)

@@ -49,7 +49,7 @@ Currently focusing on improving my Swedish and learning the basics of Indonesian
 ---
 ### Animated Videos
 
-In 2021, I created my first animated project: a promotional video for the capacity building courses that we were giving to public servants in Rio de Janeiro's city hall. The story highlights how the small and medium-scale projects that our students were developing would eventually generate bigger changes in Rio de Janeiro's status quo, represented by the Tanager's important role as a seed spreader in spite of his small size.
+In 2021, I created my first animated project: a promotional video for the capacity building courses that we were giving to public servants in Rio de Janeiro's city hall. The story highlights how the small and medium-scale projects that our students were developing would eventually generate large-scale change in Rio de Janeiro's status quo. The potential of small innovations to drive change is represented by the Tanager's important role as a seed spreader in spite of his small size.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PNKy8NNBTls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

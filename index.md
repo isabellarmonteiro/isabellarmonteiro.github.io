@@ -1,5 +1,5 @@
 
-## Hey / Hej / Ciao / Salut / Olá !
+## Hello / Hej / Ciao / Salut / Olá !
 ---
 
 ### Writing Sample

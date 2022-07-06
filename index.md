@@ -2,13 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Writing Sample
 
-[Project 1 Title](/sample_page)
+[The Effects of Fertility on Intrahousehold Resource Allocation and Women's Bargaining Power - Evidence from Nigeria](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[The effect of children’s school starting age on women’s
+labor supply - evidence from Brazil’s Curriculum reform](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

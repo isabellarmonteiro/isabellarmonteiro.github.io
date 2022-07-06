@@ -13,9 +13,6 @@
 labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_Assignment.pdf)
 
 ---
-[An overview of risk and consumption smoothing mechanisms in rural Mozambique](/pdf/Monografia.pdf)
-
----
 
 ### Coding Sample
 [Stata - an extract from my first Master's Thesis](http://example.com/)

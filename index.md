@@ -31,6 +31,10 @@ labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_
 
 ---
 
+## Other stuff
+---
+
+
 ### Paintings
 <br>
 <img align="left" src="images/IMG_9563.jpg" width="200"/> 

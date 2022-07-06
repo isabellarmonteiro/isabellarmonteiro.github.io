@@ -2,6 +2,8 @@
 ## Hi there/ Hejsan/ Ciao/ Salut/ Olá !
 ---
 
+<img src="images/IMG_3422.jpg?raw=true"/>
+
 ### Writing Sample
 
 [The Effects of Fertility on Intrahousehold Resource Allocation and Women's Bargaining Power - Evidence from Nigeria](/pdf/Essay_Isabella_Rego_Monteiro_19971128_T726_NEKN01.pdf)

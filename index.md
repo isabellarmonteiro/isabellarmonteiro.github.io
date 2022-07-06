@@ -16,12 +16,8 @@ labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_
 ---
 
 ### Coding Sample
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Stata - an extract from my first Master's Thesis](http://example.com/)
+[R - Spatial Analysis](http://example.com/)
 
 ---
 
@@ -40,12 +36,6 @@ labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_
 ---
 
 ### Animation Projects
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 

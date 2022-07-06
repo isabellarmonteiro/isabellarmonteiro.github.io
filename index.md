@@ -4,14 +4,14 @@
 
 ### Writing Sample
 
-[The Effects of Fertility on Intrahousehold Resource Allocation and Women's Bargaining Power - Evidence from Nigeria](/sample_page)
+[The Effects of Fertility on Intrahousehold Resource Allocation and Women's Bargaining Power - Evidence from Nigeria](/pdf/Labor_Economics_Assignment.pdf)
 
 ---
 [The effect of children’s school starting age on women’s
 labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_Assignment.pdf)
 
 ---
-[An overview of risk and consumption smoothing mechanisms in rural Mozambique](http://example.com/)
+[An overview of risk and consumption smoothing mechanisms in rural Mozambique](/pdf/Labor_Economics_Assignment.pdf)
 
 ---
 

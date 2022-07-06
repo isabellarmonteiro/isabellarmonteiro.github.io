@@ -47,6 +47,8 @@ labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_
 ---
 ### Animated Videos
 
+In 2021, I embarked in my first animated project by creating a promotional video for capacity building courses that we were giving to Rio de Janeiro's city hall. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PNKy8NNBTls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---

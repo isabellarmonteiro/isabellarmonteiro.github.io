@@ -25,7 +25,7 @@ labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_
 ### Teaching
 
 #### Academic
-In 2020, I had the rewarding opportunity of being the undergraduate teaching assistant PUC-Rio's Development Economics course during two academic semesters. Each semester, I gave weekly lectures to approximately 70 students with the objective of deepening their knowledge of the literature and their ability to apply the economic development theories in practice. 
+In 2020, I had the rewarding opportunity of being the teaching assistant for PUC-Rio's undergraduate Development Economics course during two academic semesters. Each semester, I gave weekly lectures to approximately 70 students with the objective of deepening their knowledge of the literature and their ability to apply the economic development theories in practice. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2o-Fuhr7ZCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br> <br><br> <br><br> <br>
 ---

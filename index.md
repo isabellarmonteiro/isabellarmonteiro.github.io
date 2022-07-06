@@ -32,6 +32,7 @@ labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_
 ### Languages
 Currently focusing on improving my Swedish and learning the basics of Indonesian.
 
+---
 ### Some Paintings
 <br>
 <img align="left" src="images/IMG_9563.jpg" width="200"/> 

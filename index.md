@@ -27,7 +27,7 @@ labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_
 <br> <br><br> <br><br> <br><br>
 ---
 
-## Other stuff
+## On a more personal note
 ---
 ### Languages
 Currently trying to improve my Swedish and learn the basics of Indonesian.

@@ -17,7 +17,7 @@ labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_
 
 ### Simple Coding Samples
 <a href="https://github.com/isabellarmonteiro/isabellarmonteiro.github.io/blob/master/data_analysis_women_25_05_2022.do"> [Stata - data analysis conducted for my first Master's Thesis] </a>
-<br>
+<br> <br>
 [R - Spatial Analysis](http://example.com/)
 
 ---

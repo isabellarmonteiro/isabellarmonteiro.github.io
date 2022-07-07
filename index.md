@@ -29,6 +29,8 @@ My Bachelor's Thesis.
 ---
 
 
+<br>
+<br>
 
 ### Simple Coding Samples
 

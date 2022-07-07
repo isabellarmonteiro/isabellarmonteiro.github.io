@@ -30,7 +30,6 @@ My Bachelor's Thesis.
 
 
 <br>
-<br>
 
 ### Simple Coding Samples
 
@@ -39,6 +38,7 @@ My Bachelor's Thesis.
 <a href="https://github.com/isabellarmonteiro/isabellarmonteiro.github.io/blob/master/data_analysis_women_25_05_2022.do"> R - Spatial Analysis </a> , yielding  [this](/pdf/Rplot18.pdf) simple outcome relating number of deaths by violent conflict and night lights/economic activity in Burkina Faso.
 
 ---
+<br>
 
 ### Teaching
 

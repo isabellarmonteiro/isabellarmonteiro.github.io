@@ -19,8 +19,8 @@ labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_
 <br>
 An original empirical paper for the Advanced Labour Economics class in my Master's Degree.
 ---
-[The effect of children’s school starting age on women’s
-labor supply - evidence from Brazil’s Curriculum reform](/pdf/Monografia.pdf)
+[An overview of risk and consumption smoothing
+mechanisms in rural Mozambique](/pdf/Monografia.pdf)
 <br>
 My Bachelor's Thesis.
 ---

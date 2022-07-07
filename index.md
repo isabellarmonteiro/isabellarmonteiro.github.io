@@ -43,7 +43,7 @@ My Bachelor's Thesis.
 ### Teaching
 
 #### Academic
-In 2020, I had the rewarding opportunity of being the teaching assistant for PUC-Rio's undergraduate Development Economics course during two academic semesters. Each semester, I gave weekly lectures to approximately 70 students with the objective of deepening their knowledge of the literature and their ability to apply the economic development theories in practice. Find below the recording of one of the lectures, which were all uploaded to YouTube for students who couldn't attend the Zoom meetings.
+In 2020, I had the rewarding opportunity of being the teaching assistant for PUC-Rio's undergraduate Development Economics course during two academic semesters. Each semester, I gave weekly lectures to approximately 70 students with the objective of deepening their knowledge of the literature and their ability to apply the economic development theories in practice. Find below the recording of one of the lectures, which were published online and kept available at the professors' request.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2o-Fuhr7ZCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br> <br>

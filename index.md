@@ -11,7 +11,7 @@ Currently studying Economics (MSc) at Lund University.
 
 [The Effects of Fertility on Intrahousehold Resource Allocation and Women's Bargaining Power - Evidence from Nigeria](/pdf/Essay_Isabella_Rego_Monteiro_19971128_T726_NEKN01.pdf)
 <br>
-My first year's Master Thesis.
+My first year's Master's Thesis.
 
 ---
 [The effect of children’s school starting age on women’s
@@ -19,6 +19,13 @@ labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_
 <br>
 An original empirical paper for the Advanced Labour Economics class in my Master's Degree.
 ---
+[The effect of children’s school starting age on women’s
+labor supply - evidence from Brazil’s Curriculum reform](/pdf/Monografia.pdf)
+<br>
+My Bachelor's Thesis.
+---
+
+
 
 ### Simple Coding Samples
 <a href="https://github.com/isabellarmonteiro/isabellarmonteiro.github.io/blob/master/data_analysis_women_25_05_2022.do"> Stata - data analysis conducted for my first Master's Thesis </a>

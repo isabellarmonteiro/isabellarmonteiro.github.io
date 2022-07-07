@@ -18,6 +18,7 @@ My first year's Master's Thesis.
 labor supply - evidence from Brazil’s Curriculum reform](/pdf/Labor_Economics_Assignment.pdf)
 <br>
 An original empirical paper for the Advanced Labour Economics class in my Master's Degree.
+<br>
 ---
 [An overview of risk and consumption smoothing
 mechanisms in rural Mozambique](/pdf/Monografia.pdf)

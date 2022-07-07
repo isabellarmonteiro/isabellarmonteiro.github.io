@@ -49,7 +49,7 @@ In 2020, I had the rewarding opportunity of becoming the teaching assistant for 
 <br> <br>
 
 #### Public Sector
-During that same year, I also became a teaching assistant for two <a href="https://prefeitura.rio/cidade/servidores-terao-formacao-em-metodologia-para-resolucao-de-problemas-complexos"> capacity building courses </a> aimed at strenghtening the implementation capacity of public servants in Brazil. The first course was given to teams within different departments of Rio de Janeiro's City Hall, while the second one was given to teams working at the Brazilian Institute of Geography and Statistics (IBGE). 
+During that same year, I also became a teaching assistant for two <a href="https://prefeitura.rio/cidade/servidores-terao-formacao-em-metodologia-para-resolucao-de-problemas-complexos"> capacity building courses </a> aimed at strengthening the implementation capacity of public servants in Brazil. The first course was given to teams within different departments of Rio de Janeiro's City Hall, while the second one was given to teams working at the Brazilian Institute of Geography and Statistics (IBGE). 
 
 <br> <br>
 ---

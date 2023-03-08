@@ -15,7 +15,7 @@ religious links on Reproductive and Neonatal Health](/pdf/17916-113-other_docume
 My term paper for a class on Economic Evaluation at Lund.
 
 [Cost-benefit analysis of Forest Concessions in the
-Brazilian Legal Amazon](/pdf/NEKN51_Isabella_Rego_Monteiro_Forest_Concessions_Brazil (2).pdf)
+Brazilian Legal Amazon](/pdf/NEKN51_Isabella_Rego_Monteiro_Forest_Concessions_Brazil(2).pdf)
 <br>
 My term paper for a class on Economic Evaluation at Lund.
 

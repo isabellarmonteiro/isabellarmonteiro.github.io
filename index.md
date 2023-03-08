@@ -1,13 +1,23 @@
 
 ## Hello!
 ---
-24 years old. Based in Turin, Italy.
+25 years old. Based in Turin, Italy.
 <br>
-Currently studying Economics (MSc) at Lund University.
+Currently a second-year Masters student of Economics at Lund University.
 
 <img src="images/IMG_3422.JPG" width="300"/>
 
 ### Writing Samples
+
+[Blurred Lines: the effect of electing a party with
+religious links on Reproductive and Neonatal Health](/pdf/NEKN51_Isabella_Rego_Monteiro_Forest_Concessions_Brazil (2).pdf)
+<br>
+My term paper for a class on Economic Evaluation at Lund.
+
+[Cost-benefit analysis of Forest Concessions in the
+Brazilian Legal Amazon](/pdf/17916-113-other_document-1030498556.pdf)
+<br>
+My term paper for a class on Economic Evaluation at Lund.
 
 [The Effects of Fertility on Intrahousehold Resource Allocation and Women's Bargaining Power - Evidence from Nigeria](/pdf/Essay_Isabella_Rego_Monteiro_19971128_T726_NEKN01.pdf)
 <br>

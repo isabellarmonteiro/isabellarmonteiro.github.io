@@ -13,14 +13,8 @@ Currently a second-year Masters student of Economics at Lund University.
 religious links on Reproductive and Neonatal Health](/pdf/17916-113-other_document-1030498556.pdf)
 <br>
 My term paper for a class on Economic Evaluation at Lund.
+--
 
----
-[Cost-benefit analysis of Forest Concessions in the
-Brazilian Legal Amazon](/pdf/NEKN51_Isabella_Rego_Monteiro_Forest_Concessions_Brazil.pdf)
-<br>
-My term paper for a class on Economic Evaluation at Lund.
-
----
 [The Effects of Fertility on Intrahousehold Resource Allocation and Women's Bargaining Power - Evidence from Nigeria](/pdf/Essay_Isabella_Rego_Monteiro_19971128_T726_NEKN01.pdf)
 <br>
 My first year's Master's Thesis.

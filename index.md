@@ -3,7 +3,7 @@
 ---
 25 years old. Based in Turin, Italy.
 <br>
-Currently a second-year Masters student of Economics at Lund University.
+Currently a second-year Masters student of Economics at PSE.
 
 <img src="images/IMG_3422.JPG" width="300"/>
 

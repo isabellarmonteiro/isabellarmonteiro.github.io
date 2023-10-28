@@ -12,7 +12,7 @@ Currently a second-year Masters student of Economics at Lund University.
 [Blurred Lines: the effect of electing a party with
 religious links on Reproductive and Neonatal Health](/pdf/17916-113-other_document-1030498556.pdf)
 <br>
-My term paper for a class on Economic Evaluation at Lund.
+My term paper for a class at Lund.
 --
 
 [The Effects of Fertility on Intrahousehold Resource Allocation and Women's Bargaining Power - Evidence from Nigeria](/pdf/Essay_Isabella_Rego_Monteiro_19971128_T726_NEKN01.pdf)
